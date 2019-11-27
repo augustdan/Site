@@ -1,0 +1,229 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-style: sans-serif Arial;
+}
+header {
+    background: url(head.jpg) no-repeat ;
+    background-size: cover ;
+    height: 1000px;
+    margin: 0;
+    padding: 0;
+
+}
+.skil {
+    text-transform: uppercase;
+}
+p {
+    color: #919191;
+}
+.one {
+    text-align: center;
+    color: white;
+    padding-top:500px;
+    font-size: 30px;
+    width: 650px;
+    margin: 0 auto;
+}
+.kr {
+    font-size: 60px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid
+}
+.two{
+    width: 185px;
+    height: 40px;
+    text-align: center;   
+    padding-top: 10px;
+    border: 2px solid white;
+    margin: 0 auto;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.two:hover {
+    background-color: white;
+    text: black;
+}
+.three {
+    text-transform: uppercase;
+    color: white;
+    font-size: 18px;
+}
+.three:hover {
+ color: black;
+}
+a {
+    text-decoration: none;
+    
+}
+.container2{
+    width: 100%;
+    background-color:#252e30;
+}
+.container {
+   
+    width: 1600px;
+    margin: 0 auto;
+    height: 70px;
+    background-color: #252e30;
+}
+
+.four {
+    text-transform: uppercase;
+    justify-content: right;
+    float: right;
+    
+    padding-top: 25px;
+}
+.five {
+    
+    padding: 0 30px;
+    color: white;
+}
+.five:hover {
+    color: #2ecc71;
+}
+.d1 {
+    background-color:#252e30;
+    
+}
+.d2 {
+    background-color: white ;
+  
+    height: 345px;
+}
+
+.services {
+    font-size:18px ;
+    padding-top: 80px;
+    height: 145px;
+    width: 450px;
+    float: left;
+}
+.services1 {
+    font-size: 18px;
+    padding-top: 80px;
+    float: right;
+    height: 145px;
+    width: 450px;
+}
+.kek {
+    padding-left: 120px;
+}
+.seven {
+    background: url(body.jpg) no-repeat;
+    height: 750px;
+    margin: 0 auto;
+}
+.eight {
+    background-color: #f2f2f1;
+    height: 750px;
+    width: 1241px;
+    float:right;
+    padding-right: 50px;
+}
+.nine {
+    font-size: 18px;
+    padding-left: 103px;
+    padding-right: 105px;
+}
+table {
+    margin: 0 auto;
+    height: 375px;
+    width: 1040px;
+}
+.tables {
+    float: left;
+    padding-top: 22px;
+}
+.keke {
+    font-size: 30px;
+    padding-top: 100px;
+}
+.d3 {
+    height: 620px;
+}
+.eleven {
+    height: 55px;
+    width: 185px;  
+    padding: 15px 30px;
+    border: 2px solid green;
+    color: green;
+    text-transform: uppercase;
+}
+.eleven:hover {
+    color: yellowgreen;
+}
+.skills dd{
+    margin-right: 60px;
+    background-color: #e8e8e8;
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 22px;
+}
+.skills-level {
+    text-align: right;
+    color: white;
+    background-color: green;
+
+}
+.der {
+    font-size: 18px;
+    padding-top: 100px;
+    float: left;
+    width: 550px;
+}
+.leg {
+    font-size: 22px;
+}
+.mer {
+    float: right;
+    width: 550px;
+    padding-top: 135px;
+}
+footer {
+    height: 175px;
+    background-color: #191f21;
+}
+.twelve {
+    font-size: 14px;
+    width: 400px;
+    margin: 0 auto;
+    color: #4b5456;
+}
+.thirty {
+    padding-top: 30px;
+}
+.forty {
+    padding-left: 44px;
+}
+.deb {
+    color: #919191;
+    text-align: justify;
+}
+.parents {
+    
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-left: 200px; 
+}
+.parent {
+    margin-left: 26px;
+}
+.card {
+    padding-left: 20px ;
+    width: 315px;
+    margin: 0 23px;
+    display: flex;
+}
+h3 {
+    text-transform: uppercase;
+}
+.go {
+    padding-top: 50px;
+    font-weight: bold;
+}
